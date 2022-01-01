@@ -1,5 +1,5 @@
 # HamzzBot
-Simple Rpg WhatsApp Bot Mike-bot
+Simple Rpg WhatsApp Bot HamzzBot
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -9,10 +9,6 @@ Simple Rpg WhatsApp Bot Mike-bot
 <a href="https://github.com/Dawnfrosty/Mike-bot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Dawnfrosty/Mike-bot?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Dawnfrosty/Mike-bot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Dawnfrosty/Mike-bot?label=PullRequest&color=red&style=flat-square"></a>
-
-## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
-**NO BOT**
 
 ## Deploy to heroku
 
@@ -24,9 +20,6 @@ Heroku Buildpack
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-Tutorial YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
