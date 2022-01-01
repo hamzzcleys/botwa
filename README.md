@@ -28,8 +28,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Dawnfrosty/Mike-bot
-cd Mike-bot
+git clone https://github.com/HamzzBot/botwa
+cd botwa
 npm install
 npm update
 ```
