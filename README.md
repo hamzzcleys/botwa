@@ -43,8 +43,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Dawnfrosty/Mike-bot
-cd Mike-bot
+git clone https://github.com/HamzzBot/botwa
+cd botwa
 npm install
 npm update
 ```
