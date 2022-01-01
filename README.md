@@ -1,4 +1,4 @@
-# Mike-bot
+# HamzzBot
 Simple Rpg WhatsApp Bot Mike-bot
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
