@@ -1,8 +1,8 @@
 // Bismillahirrahmanirrahim
 // thank you to ALLAH Swt
 // thank you to Nurutomo as wabot-aq
-global.owner = ['6285826114932','6288271754171']
-global.mods = ['6285826114932','6288271754171']
+global.owner = ['6285826114932']
+global.mods = ['6285826114932']
 global.prems = []
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
